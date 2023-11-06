@@ -1,0 +1,45 @@
+[10:39:28] [ServerMain/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[10:39:29] [ServerMain/INFO]: Loaded 7 recipes
+[10:39:29] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[10:39:29] [Server thread/INFO]: Loading properties
+[10:39:29] [Server thread/INFO]: This server is running Paper version git-Paper-280 (MC: 1.20.2) (Implementing API version 1.20.2-R0.1-SNAPSHOT) (Git: 4675152)
+[10:39:30] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[10:39:30] [Server thread/INFO]: Using 4 threads for Netty based IO
+[10:39:30] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[10:39:30] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and gen parallelism of 4 threads
+[10:39:30] [Server thread/INFO]: Default game type: SURVIVAL
+[10:39:30] [Server thread/INFO]: Generating keypair
+[10:39:30] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:39:30] [Server thread/INFO]: Using default channel type
+[10:39:30] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[10:39:30] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[10:39:30] [Server thread/INFO]: [test] Loading server plugin test v1.0-SNAPSHOT
+[10:39:30] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[10:39:30] [Server thread/INFO]: Preparing level "world"
+[10:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:39:31] [Server thread/INFO]: Time elapsed: 178 ms
+[10:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[10:39:31] [Server thread/INFO]: Time elapsed: 27 ms
+[10:39:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[10:39:31] [Server thread/INFO]: Time elapsed: 27 ms
+[10:39:31] [Server thread/INFO]: [test] Enabling test v1.0-SNAPSHOT
+[10:39:31] [Server thread/INFO]: Running delayed init tasks
+[10:39:31] [Server thread/INFO]: Done (1.750s)! For help, type "help"
+[10:39:31] [Server thread/INFO]: Timings Reset
+[10:40:15] [User Authenticator #0/INFO]: UUID of player avtoncatt is 9a2e1b0b-3c5a-48ec-a8c8-1cb8a302f25a
+[10:40:16] [Server thread/INFO]: avtoncatt joined the game
+[10:40:16] [Server thread/INFO]: avtoncatt[/127.0.0.1:63491] logged in with entity id 166 at ([world]-149.852372322399, 69.0, 88.05425021833578)
+[10:40:30] [Server thread/INFO]: avtoncatt lost connection: Disconnected
+[10:40:30] [Server thread/INFO]: avtoncatt left the game
+[10:43:59] [User Authenticator #1/INFO]: UUID of player avtoncatt is 9a2e1b0b-3c5a-48ec-a8c8-1cb8a302f25a
+[10:43:59] [Server thread/INFO]: avtoncatt joined the game
+[10:43:59] [Server thread/INFO]: avtoncatt[/127.0.0.1:63579] logged in with entity id 286 at ([world]-119.22066625054951, 64.0, 82.011145534285)
+[10:45:47] [Server thread/INFO]: avtoncatt lost connection: Disconnected
+[10:45:47] [Server thread/INFO]: avtoncatt left the game
+[10:45:53] [User Authenticator #2/INFO]: UUID of player avtoncatt is 9a2e1b0b-3c5a-48ec-a8c8-1cb8a302f25a
+[10:45:53] [Server thread/INFO]: avtoncatt joined the game
+[10:45:53] [Server thread/INFO]: avtoncatt[/127.0.0.1:63648] logged in with entity id 496 at ([world]-116.54897046954969, 64.0, 58.635191632540064)
+[10:46:12] [Server thread/INFO]: avtoncatt lost connection: Disconnected
+[10:46:12] [Server thread/INFO]: avtoncatt left the game
